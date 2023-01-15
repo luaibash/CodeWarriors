@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+
+
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+video
+{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    object-fit: cover;
+}
+
+.title-text
+{
+    margin-top: 0;
+    margin-bottom: 0px;
+    color: white;
+    font-family: 'VT323';
+    font-size: 45px;
+    text-align: center;
+}
+
+.site-name
+{
+    margin-top: 0;
+    margin-bottom: 0px;
+    font-size:200px ;
+    color: white !important;
+    font-family: 'VT323';
+}
+
+h2{
+    font-size: 16px;
+    color: rgb(111, 141, 247);
+    padding-bottom: 20px;
+}
+
+/* This div contains all the elements inside the container div. */
+.input-container
+{
+    color: white;
+    font-family: 'Rubik', monospace;
+    margin-top: 0;
+    width: 90%;
+}
+
+/* This will style all the input elements inside of the input-container div. */
+.input-container input
+{
+    margin-top: 0;
+    width: 96%;
+    /* background: hsla(234, 93%, 96%, 0.14); */
+    outline: 0;
+    border: 2px solid hsla(234, 93%, 6%, 0.54);
+    color: white;
+    font-size: 1em;
+    padding: 5px;
+    font-family: 'Rubik', monospace;
+}
+
+/* This styles both the p elements. */
+.input-header
+{
+    margin: 15px 0 0 2px;
+}
+
+/* This styles the submit button. */
+.input-container .submit-button
+{
+    margin-top: 1em;
+    width: 100%;
+    padding: 15px; 
+    background: hsla(234, 93%, 50%, 0.1);
+    border: 2px solid hsla(234, 93%, 56%, 0.3);
+    color: white;
+    font-family: 'Rubik', monospace;
+}
+
+/* This adds a hover animation to the submit button. */
+.submit-button:hover
+{
+    background-color: hsla(234, 93%, 10%, 0.1);
+}
+
+.cardRow {
+     display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+      
+  .clusterCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   }
+   .card,
+   .clusterCard {
+     width: 500px;
+     border: 1px solid black;
+     min-height: 400px;
+     padding: 20px;
+   }
