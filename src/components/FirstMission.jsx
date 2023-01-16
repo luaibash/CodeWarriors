@@ -39,7 +39,6 @@ const FirstMission = () => {
               <div className="z-10 flex flex-row justify-center items-center w-5/6 h-5/6">
         <Link
                 to="/missions"
-                target="_blank"
                 className="w-5/6 h-5/6 flex flex-col items-center">
 
                 <image
@@ -57,7 +56,6 @@ const FirstMission = () => {
 {/* DONE BUTTON */}
         <Link
                 to="/end"
-                target="_blank"
                 className="w-5/6 h-5/6 flex flex-col items-center">
                 <image
                 //className="z-20 w-5/6 h-5/6 px-10 -mb-2 py-1 bg-transparent hover:cursor-pointer"'
@@ -74,7 +72,6 @@ const FirstMission = () => {
         </Link>
         <Link
                 to="/"
-                target="_blank"
                 className="w-5/6 h-5/6 flex flex-col items-center">
                 <image
                 //className="z-20 w-5/6 h-5/6 px-10 -mb-2 py-1 bg-transparent hover:cursor-pointer"'

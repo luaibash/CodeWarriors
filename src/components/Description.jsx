@@ -22,7 +22,6 @@ const Description = () => {
       {/* this section is for left side */}
       <Link
                 to="/missions"
-                target="_blank"
                 className="w-5/6 h-5/6 flex flex-col items-center">
       <div className="z-10 flex flex-row grow-3 justify-start items-start w-5/5 mt-5 ml-5 mr-2.5 mb-12 h-5/6 p-5 bg-zinc-800 border-2 border-slate-900 rounded-2xl">
         <img className="z-10 flex flex-col justify-start items-center w-full ml-20 mb-3 h-full pr-40 pl--40" src={missions} alt="missions look"/> 
@@ -43,7 +42,6 @@ const Description = () => {
         <div className="flex flex-row justify-center w-3/5 h-4/5">
         <Link
                 to="/home"
-                target="_blank"
                 className="w-5/6 h-5/6 flex flex-col items-center">
                 <image
                 //className="z-20 w-5/6 h-5/6 px-10 -mb-2 py-1 bg-transparent hover:cursor-pointer"'
@@ -60,7 +58,6 @@ const Description = () => {
         </Link>
         <Link
                 to="/"
-                target="_blank"
                 className="w-5/6 h-5/6 flex flex-col items-center">
                 <image
                 //className="z-20 w-5/6 h-5/6 px-10 -mb-2 py-1 bg-transparent hover:cursor-pointer"'
