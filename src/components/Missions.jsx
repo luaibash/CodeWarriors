@@ -22,7 +22,6 @@ const Missions = () => {
       {/* this section is for left side */}
       <Link
                 to="/firstmission"
-                target="_blank"
                 className="w-5/6 h-5/6 flex flex-col items-center">
       <div className="z-10 flex flex-col  justify-start items-start w-5/5 mt-5 ml-5 mr-2.5 mb-12 h-5/6 p-5 bg-zinc-800 border-2 border-slate-900 rounded-2xl">
         <img className="z-10 flex flex-col justify-start items-center w-9/10 mb-3 h-5/6" src={missions} alt="missions look"/>
@@ -47,7 +46,6 @@ const Missions = () => {
         <div className="z-10 flex flex-row justify-center items-center w-5/6 h-5/6">
         <Link
                 to="/home"
-                target="_blank"
                 className="w-5/6 h-5/6 flex flex-col items-center">
 
                 <image
@@ -64,7 +62,6 @@ const Missions = () => {
         </Link> 
         <Link
                 to="/"
-                target="_blank"
 
                 className="w-5/6 h-5/6 flex flex-col items-center">
 

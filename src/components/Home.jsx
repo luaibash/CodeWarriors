@@ -25,13 +25,11 @@ const Home = () => {
       <div className="z-10 flex flex-col  justify-center items-center w-5/5 mt-5 ml-5 mr-2.5 mb-12 h-5/6 p-5 bg-zinc-800 border-2 border-slate-900 rounded-2xl">
       <Link
                 to="/description"
-                target="_blank"
                 className="w-5/6 h-5/6 flex flex-col items-center">
         <img className="z-10 flex flex-col justify-center items-center w-9/10 mb-3 h-5/6" src={questlines} alt="missions look"/>
         </Link>
         <Link
                 to="/"
-                target="_blank"
                 className="w-5/6 h-5/6 flex flex-col items-center">
                 <image
                 className="z-20 w-2/6 h-5/6 bg-transparent hover:cursor-pointer"
