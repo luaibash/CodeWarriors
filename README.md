@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+## Inspiration
+It may have been the last day before an important exam, the first day at your job, or the start of your ambitious journey of learning a new language, where you were frustrated at the lack of engaging programming tutorials. It was impossible to get their "basics" down, as well as stay focused due to the struggle of navigating through the different tutorials trying to find the perfect one to solve your problems.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Code Warriors is a platform focused on encouraging the younger and older audience to learn how to code. Video games and programming are brought together to offer an engaging and fun way to learn how to code. Not only are you having fun, but you're constantly gaining new and meaningful skills!
 
-## Available Scripts
+## What it does
+Code warriors provides a gaming website where you can hone your skills in all the coding languages it provides, all while levelling up your character and following the storyline! As you follow Asmodeus the Python into the jungle of Pythania to find the lost amulet, you get to develop your skills in python by solving puzzles that incorporate data types, if statements, for loops, operators, and more. Once you finish each mission/storyline, you unlock new items, characters, XP, and coins which can help buy new storylines/coding languages to learn! In conclusion, Code Warriors offers a fun time that will make you forget you were even coding in the first place!
 
-In the project directory, you can run:
+## How we built it
+We built code warriors by splitting our team into two to focus on two specific points of the project. The first team was the UI/UX team, which was tasked with creating the design of the website in Figma. This was important as we needed a team that could make our thoughts come to life in a short time, and design them nicely to make the website aesthetically pleasing. The second team was the frontend team, which was tasked with using react to create the final product, the website. They take what the UI/UX team has created, and add the logic and function behind it to serve as a real product. The UI/UX team shortly joined them after their initial task was completed, as their task takes less time to complete.
 
-### `npm start`
+## Challenges we ran into
+The main challenge we faced was learning how to code with React. All of us had either basic/no experience with the language, so applying it to create code warriors was difficult. The main difficulties associated with this were organizing everything correctly, setting up the react-router to link pages, as well as setting up the compiler.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Accomplishments that we're proud of
+The first accomplishment we were proud of was setting up the login page. It takes only registered usernames and passwords, and will not let you login in without them. We are also proud of the gamified look we gave the website, as it gives the impression that the user is playing a game. Lastly, we are proud of having the compiler embedded in the website as it allows for a lot more user interaction and function to the website.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## What we learned
+We learnt a lot about react, node, CSS, javascript, and tailwind. A lot of the syntax was new to us, as well as the applications of a lot of formatting options, such as padding, margins, and more. We learnt how to integrate tailwind with react, and how a lot of frontend programming works.
 
-### `npm test`
+We also learnt how to efficiently split tasks as a team. We were lucky enough to see that our initial split up of the group into two teams worked, which is why we know that we can continue to use this strategy for future competitions, projects, and more.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## What's next for Code Warriors
+What's next for code warriors is to add more lessons, integrate a full story behind the game, add more animations to give more of a game feel to it, as well as expand into different coding languages! The potential for code warriors is unlimited, and we can improve almost every aspect and expand the platform to proving a multitude of learning opportunities all while having an enjoyable experience.
