@@ -8,9 +8,37 @@ It may have been the last day before an important exam, the first day at your jo
 Code Warriors is a platform focused on encouraging the younger and older audience to learn how to code. Video games and programming are brought together to offer an engaging and fun way to learn how to code. Not only are you having fun, but you're constantly gaining new and meaningful skills!
 
 ## What it does
-Code warriors hones your skills in all coding languages, all while levelling up your character and following the storyline! 
+Code warriors hones your skills in all coding languages, all while levelling up your character and following the storyline!
 
-As you follow Asmodeus the Python into the jungle of Pythania to find the lost amulet, you get to develop your skills in python by solving puzzles that incorporate data types, if statements, for loops, operators, and more. Once you finish each mission/storyline, you unlock new items, characters, XP, and coins which can help buy new storylines/coding languages to learn!
+<div style="text-align: center;">
+  <img src="./src/assets/readMeAssets/QuestlinesPage.jpg" alt="Questlines Page" title="Questlines Page" width="100%" />
+</div>
+
+<br/>
+
+Complete missions one at a time, not only learning new coding skills but getting immersed into each advancement in the questline!
+
+<div style="text-align: center;">
+  <img src="./src/assets/readMeAssets/MissionsPage.jpg" alt="Questlines Page" title="Questlines Page" width="100%" />
+</div>
+
+<br/>
+
+As you follow Asmodeus the Python into the jungle of Pythania to find the lost amulet, you get to develop your skills in python by solving puzzles that incorporate data types, if statements, for loops, operators, and more. 
+
+<div style="text-align: center;">
+  <img src="./src/assets/readMeAssets/ActiveMission.jpg" alt="Questlines Page" title="Questlines Page" width="100%" />
+</div>
+
+<br/>
+
+Once you finish each mission/storyline, you unlock new items, characters, XP, and coins which can help buy new storylines/coding languages to learn!
+
+<div style="text-align: center;">
+  <img src="./src/assets/readMeAssets/MissionComplete.jpg" alt="Questlines Page" title="Questlines Page" width="100%" />
+</div>
+
+<br/>
 
 ## How we built it
 - We built code warriors by splitting our team into two to focus on two specific points of the project.
