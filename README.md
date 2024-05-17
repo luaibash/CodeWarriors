@@ -4,10 +4,14 @@ It may have been the last day before an important exam, the first day at your jo
 Code Warriors is a platform focused on encouraging the younger and older audience to learn how to code. Video games and programming are brought together to offer an engaging and fun way to learn how to code. Not only are you having fun, but you're constantly gaining new and meaningful skills!
 
 ## What it does
-Code warriors provides a gaming website where you can hone your skills in all the coding languages it provides, all while levelling up your character and following the storyline! As you follow Asmodeus the Python into the jungle of Pythania to find the lost amulet, you get to develop your skills in python by solving puzzles that incorporate data types, if statements, for loops, operators, and more. Once you finish each mission/storyline, you unlock new items, characters, XP, and coins which can help buy new storylines/coding languages to learn! In conclusion, Code Warriors offers a fun time that will make you forget you were even coding in the first place!
+Code warriors hones your skills in all coding languages, all while levelling up your character and following the storyline! 
+
+As you follow Asmodeus the Python into the jungle of Pythania to find the lost amulet, you get to develop your skills in python by solving puzzles that incorporate data types, if statements, for loops, operators, and more. Once you finish each mission/storyline, you unlock new items, characters, XP, and coins which can help buy new storylines/coding languages to learn!
 
 ## How we built it
-We built code warriors by splitting our team into two to focus on two specific points of the project. The first team was the UI/UX team, which was tasked with creating the design of the website in Figma. This was important as we needed a team that could make our thoughts come to life in a short time, and design them nicely to make the website aesthetically pleasing. The second team was the frontend team, which was tasked with using react to create the final product, the website. They take what the UI/UX team has created, and add the logic and function behind it to serve as a real product. The UI/UX team shortly joined them after their initial task was completed, as their task takes less time to complete.
+- We built code warriors by splitting our team into two to focus on two specific points of the project.
+- The first team was the UI/UX team, which was tasked with creating the design of the website in Figma. This was important as we needed a team that could make our thoughts come to life in a short time, and design them nicely to make the website aesthetically pleasing.
+- The second team was the frontend team, which was tasked with using ReactJS to create the final product, the website. They take what the UI/UX team has created, and add the logic and function behind it to serve as a real product.
 
 ## Challenges we ran into
 The main challenge we faced was learning how to code with React. All of us had either basic/no experience with the language, so applying it to create code warriors was difficult. The main difficulties associated with this were organizing everything correctly, setting up the react-router to link pages, as well as setting up the compiler.
