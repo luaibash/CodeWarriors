@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./src/assets/readMeAssets/TitleCover.png" alt="CodeWarriors Logo" title="CodeWarriors Logo" />
+</div>
+
 ## Inspiration
 It may have been the last day before an important exam, the first day at your job, or the start of your ambitious journey of learning a new language, where you were frustrated at the lack of engaging programming tutorials. It was impossible to get their "basics" down, as well as stay focused due to the struggle of navigating through the different tutorials trying to find the perfect one to solve your problems.
 
