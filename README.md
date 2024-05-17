@@ -8,7 +8,7 @@ It may have been the last day before an important exam, the first day at your jo
 Code Warriors is a platform focused on encouraging the younger and older audience to learn how to code. Video games and programming are brought together to offer an engaging and fun way to learn how to code. Not only are you having fun, but you're constantly gaining new and meaningful skills!
 
 ## What it does
-Code warriors hones your skills in all coding languages, all while levelling up your character and following the storyline!
+Code warriors hones your skills in all coding languages, all while levelling up your character and following the storyline! Choose languages such as Python and C, or learn a new framework like React!
 
 <div style="text-align: center;">
   <img src="./src/assets/readMeAssets/QuestlinesPage.jpg" alt="Questlines Page" title="Questlines Page" width="100%" />
@@ -16,7 +16,7 @@ Code warriors hones your skills in all coding languages, all while levelling up 
 
 <br/>
 
-Complete missions one at a time, not only learning new coding skills but getting immersed into each advancement in the questline!
+Complete missions one at a time, not only learning new coding skills but getting immersed into each advancement in the questline! Kepp track of the missions you've completed, and your character's stats!
 
 <div style="text-align: center;">
   <img src="./src/assets/readMeAssets/MissionsPage.jpg" alt="Questlines Page" title="Questlines Page" width="100%" />
